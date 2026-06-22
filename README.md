@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0009-palindrome-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
