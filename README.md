@@ -28,6 +28,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
