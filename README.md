@@ -6,6 +6,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/1480-running-sum-of-1d-array) |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
