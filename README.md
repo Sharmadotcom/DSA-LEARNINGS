@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0283-move-zeroes) |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0771-jewels-and-stones) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
