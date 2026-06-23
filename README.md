@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/Sharmadotcom/DSA-LEARNINGS/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
